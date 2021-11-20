@@ -1,0 +1,3 @@
+Uname
+free -m
+iostat
